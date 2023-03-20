@@ -1,7 +1,7 @@
-Example 2 An Empty Window with an an ImGUIDecorator on top
-=====================================
+Example 2 An Empty Window with ImGUIDecorator
+=============================================
 
-In this example we show how to generate a simple window with an ImGUIDecorator based on pySDL2. 
+In this example we show how to generate a simple window with an ImGUIDecorator on top based on pySDL2. 
 
 .. image:: ../_static/Example2.png
     :width: 500 px
@@ -27,6 +27,3 @@ In this example we show how to generate a simple window with an ImGUIDecorator b
     gGUI.display_post()
     gGUI.shutdown()
 
-
-Note that changing :code:`openGLversion=4` to :code:`openGLversion=3` will use 
-openGL version 3.2 instead of the default 4.1. 

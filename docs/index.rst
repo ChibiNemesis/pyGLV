@@ -38,6 +38,7 @@ scientific visualization and deep learning.
    examples/Example7
    examples/Example8
    examples/Example9
+   examples/Example10
 
 .. toctree::
    :maxdepth: 3
